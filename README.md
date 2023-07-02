@@ -3,3 +3,4 @@
 - Two Sum Problem (HashMap, Loops)
 - Is Integer a Palindrome (Division, Loops)
 - Check if Parenthesis is Valid (Stack, Loop, String)
+- Longest Common Prefix (HashSets, While Loops, String)
