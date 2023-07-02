@@ -4,3 +4,4 @@
 - Is Integer a Palindrome (Division, Loops)
 - Check if Parenthesis is Valid (Stack, Loop, String)
 - Longest Common Prefix (HashSets, While Loops, String)
+- Remove Duplicates from a Vector (Vector, While Loops)
