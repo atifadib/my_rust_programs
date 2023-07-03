@@ -6,3 +6,4 @@
 - Longest Common Prefix (HashSets, While Loops, String)
 - Remove Duplicates from a Vector (Vector, While Loops)
 - Apply Operations on Vector (Vector, Push, While Loops)
+- Binary Search on Vector (Vector, While Loops, Indexing)
