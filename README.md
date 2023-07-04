@@ -9,3 +9,4 @@
 - Binary Search on Vector (Vector, While Loops, Indexing)
 - Remove Values from Vector (Vector, While Loops, Conditionals)
 - Climbing Stairs (HashMap, Nested Functions)
+- Min Depth of a Binary Tree (Tree Traversal, Recursion)
